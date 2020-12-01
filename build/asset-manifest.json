@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/rvwebsite/static/css/main.569179d0.chunk.css",
+    "main.js": "/rvwebsite/static/js/main.a64bbebb.chunk.js",
+    "main.js.map": "/rvwebsite/static/js/main.a64bbebb.chunk.js.map",
+    "runtime-main.js": "/rvwebsite/static/js/runtime-main.479bdd7f.js",
+    "runtime-main.js.map": "/rvwebsite/static/js/runtime-main.479bdd7f.js.map",
+    "static/css/2.07725c36.chunk.css": "/rvwebsite/static/css/2.07725c36.chunk.css",
+    "static/js/2.11809b31.chunk.js": "/rvwebsite/static/js/2.11809b31.chunk.js",
+    "static/js/2.11809b31.chunk.js.map": "/rvwebsite/static/js/2.11809b31.chunk.js.map",
+    "index.html": "/rvwebsite/index.html",
+    "static/css/2.07725c36.chunk.css.map": "/rvwebsite/static/css/2.07725c36.chunk.css.map",
+    "static/css/main.569179d0.chunk.css.map": "/rvwebsite/static/css/main.569179d0.chunk.css.map",
+    "static/js/2.11809b31.chunk.js.LICENSE.txt": "/rvwebsite/static/js/2.11809b31.chunk.js.LICENSE.txt",
+    "static/media/6.496f37c2.jpg": "/rvwebsite/static/media/6.496f37c2.jpg",
+    "static/media/9.9b6f779f.jpg": "/rvwebsite/static/media/9.9b6f779f.jpg",
+    "static/media/back.84227e40.jpg": "/rvwebsite/static/media/back.84227e40.jpg",
+    "static/media/cover.8bf4bb62.jpg": "/rvwebsite/static/media/cover.8bf4bb62.jpg",
+    "static/media/gallery_item_4.0cec5008.png": "/rvwebsite/static/media/gallery_item_4.0cec5008.png",
+    "static/media/gallery_item_5.97fa6c4f.png": "/rvwebsite/static/media/gallery_item_5.97fa6c4f.png",
+    "static/media/gallery_item_6.2681a03a.png": "/rvwebsite/static/media/gallery_item_6.2681a03a.png",
+    "static/media/gallery_item_7.bb1f21e1.png": "/rvwebsite/static/media/gallery_item_7.bb1f21e1.png",
+    "static/media/gallery_item_8.7b231adc.png": "/rvwebsite/static/media/gallery_item_8.7b231adc.png",
+    "static/media/man.3410537f.png": "/rvwebsite/static/media/man.3410537f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.479bdd7f.js",
+    "static/css/2.07725c36.chunk.css",
+    "static/js/2.11809b31.chunk.js",
+    "static/css/main.569179d0.chunk.css",
+    "static/js/main.a64bbebb.chunk.js"
+  ]
+}
