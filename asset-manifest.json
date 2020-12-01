@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/reactwebsitefirst/static/css/main.569179d0.chunk.css",
+    "main.js": "/reactwebsitefirst/static/js/main.5388503f.chunk.js",
+    "main.js.map": "/reactwebsitefirst/static/js/main.5388503f.chunk.js.map",
+    "runtime-main.js": "/reactwebsitefirst/static/js/runtime-main.19fe6bae.js",
+    "runtime-main.js.map": "/reactwebsitefirst/static/js/runtime-main.19fe6bae.js.map",
+    "static/css/2.07725c36.chunk.css": "/reactwebsitefirst/static/css/2.07725c36.chunk.css",
+    "static/js/2.11809b31.chunk.js": "/reactwebsitefirst/static/js/2.11809b31.chunk.js",
+    "static/js/2.11809b31.chunk.js.map": "/reactwebsitefirst/static/js/2.11809b31.chunk.js.map",
+    "index.html": "/reactwebsitefirst/index.html",
+    "static/css/2.07725c36.chunk.css.map": "/reactwebsitefirst/static/css/2.07725c36.chunk.css.map",
+    "static/css/main.569179d0.chunk.css.map": "/reactwebsitefirst/static/css/main.569179d0.chunk.css.map",
+    "static/js/2.11809b31.chunk.js.LICENSE.txt": "/reactwebsitefirst/static/js/2.11809b31.chunk.js.LICENSE.txt",
+    "static/media/6.496f37c2.jpg": "/reactwebsitefirst/static/media/6.496f37c2.jpg",
+    "static/media/9.9b6f779f.jpg": "/reactwebsitefirst/static/media/9.9b6f779f.jpg",
+    "static/media/back.84227e40.jpg": "/reactwebsitefirst/static/media/back.84227e40.jpg",
+    "static/media/cover.8bf4bb62.jpg": "/reactwebsitefirst/static/media/cover.8bf4bb62.jpg",
+    "static/media/gallery_item_4.0cec5008.png": "/reactwebsitefirst/static/media/gallery_item_4.0cec5008.png",
+    "static/media/gallery_item_5.97fa6c4f.png": "/reactwebsitefirst/static/media/gallery_item_5.97fa6c4f.png",
+    "static/media/gallery_item_6.2681a03a.png": "/reactwebsitefirst/static/media/gallery_item_6.2681a03a.png",
+    "static/media/gallery_item_7.bb1f21e1.png": "/reactwebsitefirst/static/media/gallery_item_7.bb1f21e1.png",
+    "static/media/gallery_item_8.7b231adc.png": "/reactwebsitefirst/static/media/gallery_item_8.7b231adc.png",
+    "static/media/man.3410537f.png": "/reactwebsitefirst/static/media/man.3410537f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19fe6bae.js",
+    "static/css/2.07725c36.chunk.css",
+    "static/js/2.11809b31.chunk.js",
+    "static/css/main.569179d0.chunk.css",
+    "static/js/main.5388503f.chunk.js"
+  ]
+}
